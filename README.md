@@ -119,7 +119,7 @@ If you want easy, this is not for you. If you want depth, welcome.
 
 ## License
 
-MIT License - [See LICENSE file](LICENSE.md)
+MIT License - [See LICENSE file](LICENSE)
 
 ## Acknowledgments
 
