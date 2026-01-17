@@ -119,7 +119,7 @@ If you want easy, this is not for you. If you want depth, welcome.
 
 ## License
 
-MIT License - See LICENSE file
+MIT License - See LICENSE file(LICENSE.md)
 
 ## Acknowledgments
 
@@ -128,5 +128,5 @@ Inspired by [DFIRmadness/5pillars](https://github.com/DFIRmadness/5pillars), whi
 ---
 
 **Last Updated:** January 2026
-**Maintained by:** [Your Name/Organization]
+**Maintained by:** [Isaac N'CHO](https://github.com/Z-Isaac08)
 **Contributions:** Pull requests welcome, but standards are non-negotiable. Low-quality resources will be rejected.
